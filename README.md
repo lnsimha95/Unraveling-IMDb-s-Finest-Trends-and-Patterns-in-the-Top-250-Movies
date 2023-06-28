@@ -101,6 +101,62 @@ Analyzing the top 250 movies from IMDB dataset
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 11. Which director had the highest box office collection 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/4d28f825-11c3-4301-a25b-bce615f21762)
+
+
+#### Anthony Russo and Joe Russo are the directors who enjoy highest box office collection among directors with 4.85 billion dollars.
+
+#### Followed by them, are directors like  Christopher Nolan. Steven Spielberg and Peter Jackson
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 12. Which genre had the highest gross among all the years and during which year did it enjoy that gross? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/142efa6f-3deb-4a04-ba68-a1716af076a6)
+
+
+#### Action, Adventure and drama had the highest box office collection and it was during 2019 with 2.799 billion dollars
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 13. Does high budget lead to high box office collections and do they have any relationship? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/257d05e8-89f8-4828-9c1e-0be472eab662)
+
+#### No. There is no signficant relationship between the budget and box office from the above scatterplot representation. 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 14. Do budget and box office collection have any outliers? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/ca025b2b-7bcf-4ca6-aef8-62050f7abe5c)
+
+
+
+#### Yes. Budget and box office variables have a few outliers that need to be dealt with. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 15. Which year had the highest box office collection from all movies released that year? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/1ff80280-ce09-4c5d-b9b8-61d8a962d564)
+
+
+#### 2019 had the highest box office collection from all movies and it was 4.746 billion 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
 
 
