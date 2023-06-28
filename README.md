@@ -161,6 +161,91 @@ Analyzing the top 250 movies from IMDB dataset
 
 #### So, box office collection do not have any impact on IMDB rating 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 17. Which was the runtime of the movie that had the highest gross ? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/9acc4c7a-2417-45db-85dd-59bddd1c058a)
+
+#### The movies with 2 hours and 10 minutes had the highest gross with 4.324 billion dollars 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 18. Which certified movies attracted the highest gross? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/4a8ba100-bf33-446a-8f5c-c830a4ca82a2)
+
+#### PG-13 or Parents Strongly Cautioned movies attracted highest gross and it was 22.66 billion dollars 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 19. Does runtime have any relationship with the box office collections? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/2724956a-ed85-48e6-93df-40307fb71a06)
+
+#### No. Runtime does not have any relationship with box office collections and the scatterplot proves that. 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 20. Checking the correlation of all numeric variables 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/e61ce210-43e1-4917-93d8-6cb199026a93)
+
+#### Box office collection and budget have some correlation of 0.25. But it is not so signficant 
+
+
+#### Rating and box office have a minor correlation of 0.16
+
+
+#### Rating and runtime too has only 0.15 correlation and it is too low 
+
+
+#### Rating and rank has a negative correlation
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 21. What is the average ratings by genre? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/cb954e6d-a3fc-40ef-a1e6-191f7255dea0)
+
+#### Western, adventure had the highest average IMDB rating among the genres.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 22. Which genre had the highest box office collection? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/b72b8746-bb4c-440a-823a-c48b1d01b8f2)
+
+#### Action, Adventure and drama enjoyed the highest box office collection among all the genres 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 23. Which genre do the top 10 movies belong to? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/12a484ee-2338-42cf-8aa6-16daad4207d5)
+
+#### Crime drama is the genre that is majorly in the top 10 rated movies in IMDB 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 24. Who are top 10 highly rated movie writers? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/afe9af3c-c544-47f8-857b-504e7693b4bd)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
