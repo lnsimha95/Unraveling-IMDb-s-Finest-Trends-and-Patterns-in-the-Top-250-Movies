@@ -1,5 +1,5 @@
 # EDA--IMDB-Top-250-movies
-Analyzing the top 250 movies from IMDB dataset 
+# Analyzing the top 250 movies from IMDB dataset 
 
 # Insights Drawn from the IMDB Movie Analysis 
 
@@ -235,6 +235,70 @@ Analyzing the top 250 movies from IMDB dataset
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 25. Who are the top 10 highly rated movie directors? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/54e0a7f6-dfb6-43f9-913f-1545724799e9)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 26. What are the top 10 movies by casts? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/55d484d2-5022-463b-9473-1e117cf0102d)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 27. Where do most ratings lie between? 
+
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/8d8ef8d9-f3a9-4e7b-9acf-3db2e64bd4f2)
+
+
+#### Most ratings lie between 8.1 to 8.3
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 28. What are the movie ratings by genre and year? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/381684e0-4c92-45c3-ae79-cd82e1fc274f)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 29 . Which director has the most number of movies in the top 210 movies list? 
+
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/49aa5e1b-ae23-42d1-ae3a-2ec6c735019e)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 30. How has ratings over the year progressed? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/7796feee-5311-47e7-a23c-8d7d244fd1d2)
+
+
+#### The year 1972 saw highest spike in ratings as this was the time where iconic films like Godfather came
+
+#### It gave birth to a new generation of directors like Martin Scorecese, Werner Herhog
+
+#### Also, during this time new technologies were introduced like Video Cassette recorder and 3D technologies 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 31. What are the movie ratings by certificate? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/d9744624-9490-415c-b3c8-fb357a2d23c3)
+
+#### R-rated movies have the highest rating and make it to the top of the list as we checked earlier 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
