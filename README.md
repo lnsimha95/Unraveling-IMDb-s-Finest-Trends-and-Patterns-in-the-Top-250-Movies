@@ -63,6 +63,24 @@ Analyzing the top 250 movies from IMDB dataset
 #### The Greenmile movie had the longest runtime among the top 210 movies in this dataset with 3 hours and 90 minutes and the name of the movie is The Green Mile
 
 
+## 9. Which drama genre movie made the highest box office collection 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/9554201e-0e6e-4759-b38a-c6ee5942583d)
+
+#### Amercian Beauty is the highest grossing Drama genre movie with 356 million 
+
+## 10. Which is the highest rated Drama genre movie? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/0a9ece5a-ee73-4772-bc34-14701e013a17)
+
+#### Undoubtedly, Shawshank Redemption is the highest rated drama with 9.3 
+
+
+
+
+
+
+
 
 
 
