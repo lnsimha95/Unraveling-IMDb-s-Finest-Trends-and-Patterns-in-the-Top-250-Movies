@@ -273,6 +273,7 @@
 ![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/49aa5e1b-ae23-42d1-ae3a-2ec6c735019e)
 
 
+#### Martin Scorcese, Christopher Nolan and Stanley Kubrick has the most number of movies in the IMDB top 210 movies list. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 30. How has ratings over the year progressed? 
