@@ -36,6 +36,38 @@ Analyzing the top 250 movies from IMDB dataset
 #### The ShawShank Redemption had the highest rating among 210 movies with a rating of 9.3 
 
 
+## 5. Which movie had the highest budget and what were the top 10 movies with highest budget? 
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/d60ddbc1-be34-48ba-ae4a-98db8b01d271)
+
+#### The movie with the highest budget was Princess Mononoke with 2.5 billion 
+
+
+## 6. What is the average budget of the top 210 movies
+
+#### The average budget of top 210 movies is $ 52,535,562 (52 million)
+
+
+## 7. What are the top 10 highest-grossing movies out of these top 210 movies
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/5478e771-e134-4b85-9099-a7d8d74b6b46)
+
+#### Avengers endgame that was released in 2019 is the movie which grossed the highest with 356000000.0 (356 million)
+
+
+## 8. Which movie had the longest runtime and what were the top 10 movies based on their maximum runtime 
+
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/95d76b01-8f83-4ec9-a9e1-d9552709523e)
+
+#### The Greenmile movie had the longest runtime among the top 210 movies in this dataset with 3 hours and 90 minutes and the name of the movie is The Green Mile
+
+
+
+
+
+
+
 
 
 
