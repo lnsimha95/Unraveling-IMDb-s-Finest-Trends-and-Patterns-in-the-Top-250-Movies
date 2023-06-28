@@ -13,7 +13,7 @@ Analyzing the top 250 movies from IMDB dataset
 - Crime, Drama
 - Animation, Adventure Comedy
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2. Which year had the most number of releases? 
 
