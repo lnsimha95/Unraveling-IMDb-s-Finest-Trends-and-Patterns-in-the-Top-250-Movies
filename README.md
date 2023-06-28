@@ -149,6 +149,17 @@ Analyzing the top 250 movies from IMDB dataset
 #### 2019 had the highest box office collection from all movies and it was 4.746 billion 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 16. Is there a significant relationship between box office collection and IMDB ratings?
+
+![image](https://github.com/lnsimha95/EDA--IMDB-Top-250-movies/assets/109967940/ee0cf3cd-be0d-4333-9684-e83f249450b3)
+
+#### There is no significant relationship between the IMDB ratings and the box office collections
+
+
+#### This is because some or many movies with even lower box_office collections enjoy a high IMDB rating
+
+
+#### So, box office collection do not have any impact on IMDB rating 
 
 
 
