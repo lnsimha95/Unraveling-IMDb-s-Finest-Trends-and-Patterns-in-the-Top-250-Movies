@@ -13,7 +13,7 @@ Analyzing the top 250 movies from IMDB dataset
 - Crime, Drama
 - Animation, Adventure Comedy
 
---------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2. Which year had the most number of releases? 
 
@@ -23,7 +23,7 @@ Analyzing the top 250 movies from IMDB dataset
 #### The year 1995 had the most number of movie releases from this Top 210 movies that was 7
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 3. What was the certificate that most films out of these 210 received? 
 
@@ -32,7 +32,7 @@ Analyzing the top 250 movies from IMDB dataset
 #### Most movies in the top 210, received R certificate for their films. These movies require parent or adult guardian supervision for kids under the age of 17 to watch
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 4. Which movie had the highest rating and What were the top 10 highest rated movies 
 
@@ -42,7 +42,7 @@ Analyzing the top 250 movies from IMDB dataset
 #### The ShawShank Redemption had the highest rating among 210 movies with a rating of 9.3 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 5. Which movie had the highest budget and what were the top 10 movies with highest budget? 
@@ -52,7 +52,7 @@ Analyzing the top 250 movies from IMDB dataset
 #### The movie with the highest budget was Princess Mononoke with 2.5 billion 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 6. What is the average budget of the top 210 movies
@@ -60,7 +60,7 @@ Analyzing the top 250 movies from IMDB dataset
 #### The average budget of top 210 movies is $ 52,535,562 (52 million)
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 7. What are the top 10 highest-grossing movies out of these top 210 movies
@@ -70,7 +70,7 @@ Analyzing the top 250 movies from IMDB dataset
 #### Avengers endgame that was released in 2019 is the movie which grossed the highest with 356000000.0 (356 million)
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 8. Which movie had the longest runtime and what were the top 10 movies based on their maximum runtime 
@@ -81,7 +81,7 @@ Analyzing the top 250 movies from IMDB dataset
 #### The Greenmile movie had the longest runtime among the top 210 movies in this dataset with 3 hours and 90 minutes and the name of the movie is The Green Mile
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 9. Which drama genre movie made the highest box office collection 
 
@@ -90,7 +90,7 @@ Analyzing the top 250 movies from IMDB dataset
 #### Amercian Beauty is the highest grossing Drama genre movie with 356 million 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 10. Which is the highest rated Drama genre movie? 
@@ -99,7 +99,7 @@ Analyzing the top 250 movies from IMDB dataset
 
 #### Undoubtedly, Shawshank Redemption is the highest rated drama with 9.3 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
