@@ -1,6 +1,12 @@
 # EDA--IMDB-Top-250-movies
 # Analyzing the top 250 movies from IMDB dataset 
 
+
+# Data Source 
+
+https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset?select=IMDB+Top+250+Movies.csv 
+
+
 # Insights Drawn from the IMDB Movie Analysis 
 
 ## 1.  Which are top three genres where most number of films came in the top 250 movies 
