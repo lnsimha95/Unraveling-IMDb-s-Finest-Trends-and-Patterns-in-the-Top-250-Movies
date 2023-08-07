@@ -7,6 +7,11 @@
 The producer of a film production company wants to know what the patterns and trends in the popular and highly-rated movies. So, he has asked the data team to come up with these insights that can aid his production management team to direct their resources, assets and finances on the right projects. 
 
 
+# Methodology Used
+
+We worked with a simple data cleaning and a detailed Exploratory data analysis to find the hidden insights from this IMDB dataset. 
+
+
 # Data Source 
 
 https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset?select=IMDB+Top+250+Movies.csv 
