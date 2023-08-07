@@ -1,6 +1,4 @@
-# EDA--IMDB-Top-250-movies
-# Analyzing the top 250 movies from IMDB dataset 
-
+# Unraveling-IMDbs-Finest-Trends-and-Patterns-in-the-Top-250-Movies
 
 # Problem Statement 
 
